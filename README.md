@@ -2,29 +2,9 @@
 
 Code Innovation Series powered by GitHub
 
-## Submission Procedure
-Read the following steps and guidelines properly for proper submission of your project. Missing out any step or performing it wrongly can lead to unsuccessful submission. 
+Here is the Prototype model of our project idea.
 
-### Step 1
-#### Fork this repository
+This is a responsive prototype of an app that will allow students from various branches to study and get materials that they might need for any competitve exam.
+This app has exam papers of all the competitive exams in form of quizzes that students can take in form of exams.
 
-### Step 2
-#### Create a New Folder within the forked repository, with the 'folder name' being your 'Team Name'
-
-## Contents of the folder
-+ The project directory.
-+ The presentation that you will be presenting while presenting your project before the judges.
-+ A text file that contains proper documentation. The documentation should contain:
-    - A description of your project.
-    - The contents of your project directory.
-    - Ways to host your project on the localhost.
-+ The name of the 'pptx' and 'text' files should also be the 'team name'.
-
-### People with only hardware solution are required to submit only the 'pptx' and 'text' files. A link to the video demonstration of your working model should also be included in both the files.
-
-
-### Step 3
-Create a Pull Request only after you have completed the entire project and do not wish to make any further changes. We will not be accepting more than one Pull Request from any team. \
-\
-You can complete your work on the local machine and then upload your project folder in the forked repository and proceed to create a Pull Request.
-
+This app runs with Google Firebase as a backend to handle users authentication, user data as well as a realtime database that will contain study and quizz data.
