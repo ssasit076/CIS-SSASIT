@@ -1,0 +1,227 @@
+.text1
+{
+font-size: 100;
+    font-family: sans-serif;
+    text-align: center;
+    color: #53281E;
+}
+.all
+{
+    position: absolute;
+    right: 10px;
+}
+.button 
+{
+  background-color: #49582D; 
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+
+
+
+
+
+signup
+{
+    font-family: sans-serif;
+    
+}
+
+
+
+
+.book1
+{
+  position: absolute;
+    left: 20px;
+  width: 360px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+.book2
+{
+  position: absolute;
+  left: 500;
+  width: 360px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+
+.book3
+{
+  position: absolute;
+  left: 1000px;
+  width: 360px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+.book4
+{
+  position: absolute;
+  left: 1000px;
+  width: 360px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+.book5
+{
+  position: absolute;
+  left: 500;
+  width: 360px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+
+.book6
+{
+  position: absolute;
+  left: 20px;
+  width: 360px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+
+
+
+.button555 
+{
+    position: absolute;
+    right: 50px;
+  background-color: #49582D; 
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 20px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+.button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.5s;
+}
+
+.button span:after {
+  content: '\00bb';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.5s;
+}
+
+.button:hover span {
+  padding-right: 25px;
+}
+
+.button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+
+
+
+
+
+
+
+
+
+.books1
+{
+  position: absolute;
+  left: 550px;
+  width: 360px;
+  padding: 10px;
+  border: 5px solid gray;
+  margin: 0;
+}
+
+
+.boook1
+{
+    position: absolute;
+    font-family: sans-serif;
+    top: 550px;
+    left:530;
+}
+
+
+.boook2
+{
+    position: absolute;
+    font-family: sans-serif;
+    top: 550px;
+    left:560;
+}
+.boook3
+{
+    position: absolute;
+    font-family: sans-serif;
+    top: 550px;
+    left:510;
+}
+.boook4
+{
+    position: absolute;
+    font-family: sans-serif;
+    top: 550px;
+    left:500;
+}
+.boook5
+{
+    position: absolute;
+    font-family: sans-serif;
+    top: 550px;
+    left:550;
+}
