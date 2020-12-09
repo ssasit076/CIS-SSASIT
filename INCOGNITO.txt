@@ -1,0 +1,100 @@
+Team Name: INCOGNITO
+
+	TEAM MEMBERS
+
+Name: Bhuva Raj 
+En. No.: 180760107007
+
+Name: Ranpariya Rinkesh
+En No.: 180760107050
+
+Name: Rathod Rahul
+En No.: 180760107053
+
+Name: Shingala Jaydeep 
+En No.: 180760107056
+
+
+	Problem Statement
+
+FinTech :
+The FinTech industry in India has grown exponentially. At 87%, India has emerged as a leader in FinTech adoption, as per Global FinTech Adoption Index 2019 reports. This sector has grabbed attention of not only start-ups but also established companies along with public and private sector banks.
+
+
+	Technology Stacks
+
+General
+? Python
+? HTML, CSS
+? JAVA script
+? SQL
+
+Python Data Science And Visualization Library like,
+? Pandas
+? Numpy
+? Matplotlib
+? Seaborn
+
+
+	Solution
+
+First of all we have to monitor the transaction of customer by Transaction monitoring.
+
+What is Transaction Monitoring?
+? A process of reviewing customer transactions and matching them against customer risk profile & usual transaction pattern. Subsequently, perform a focused examination of transactions and identification of Suspicious transactions.
+? Transactions may include transfers, deposits and withdrawals
+
+Objective :
+? To protect bank/FI from Any transactions that may lead to money laundering and terrorist Financing
+? Regulatory fines/penalties for not identifying such transactions.
+
+
+	Transaction Monitoring Rules
+
+Find Out below Pattern in the transactional  DATA
+? Consolidation of transactions close to threshold
+? Overall increase in transaction volume
+? Suspicious spend behaviour
+? High Volume of transactions
+? Payment made with some IP address
+? Low buyer diversity
+? Change in Customer profile before large transactions
+? Frequency of withdrawal and deposits
+? High transactions count from new Users
+
+By this analysis we can make machine learning model to predict the fraud transaction and other Terrorist activities,
+
+	
+	Transaction Monitoring | Key Red Flags
+
+? Customer, who is a public official, opens account in the name of a family member who begins making large deposits not consistent with the known sources of legitimate family income.
+? Transactions that involve depositing large amounts of cash inconsistent with the normal and expected activity of the customer.
+? Customer who is a student, uncharacteristically transfers or exchanges large sums of money.
+? Account shows high velocity in the movement of funds, but maintains low beginning and ending daily balances.
+? Transaction involves offshore institutions whose names resemble those of well-known legitimate financial institutions.
+
+	
+	Transaction monitoring process
+
+? Suspicious Transaction alert is generated
+? Consolation of customer profile information
+? Search previous Transaction alert or SAR against customer
+? Transaction review & analyse usual Transaction pattern
+? Detailed investigation on alerted Transaction & identify Source
+? Understand relation between customer & party making transaction
+? Decision on the Suspicious transaction alert 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
